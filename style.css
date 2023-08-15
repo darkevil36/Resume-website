@@ -1,0 +1,98 @@
+@font-face {
+    font-family: "DaysOne";
+    src: url("DaysOne-Regular.ttf");
+    
+}
+@font-face {
+    font-family: "Ysabeau";
+    src: url("Ysabeau-Black.ttf");
+}
+@font-face {
+    font-family: "Overpass";
+    src: url("Overpass-VariableFont_wght.ttf");
+}
+body{
+    background-color: lightgreen;
+}
+#div1{
+    float:left;
+    margin:10px;
+}
+#p1{
+    border: white solid;
+    width: 600px;
+    border-radius: 10px;
+    float:right;
+    margin-bottom: 0px;
+    margin-right: 50px;
+    color: black;
+    font-size: 20px;
+    
+    
+}
+#img1{
+    width: 100px;
+    margin-right: 100px;
+}
+#p2{
+    border: white solid;
+    border-radius: 10px;
+    width: 300px;
+    color: white;
+    font-size: 20px;
+    margin-top: 80px;
+}
+#div2{
+    
+    float: left;
+    margin-left: 380px;
+    margin-top: 50px;
+}
+#div3{
+    margin-right: 110px;
+    margin-top: 50px;
+    float: right;
+}
+#ul1{
+    font-size: 25px;
+    color:white;
+}
+#ul2{
+    font-size: 25px;
+    color: white;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+    padding: 20px;
+    font-size: 50px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+}
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+}
+
+    
+.fa-instagram {
+    background: #125688;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
